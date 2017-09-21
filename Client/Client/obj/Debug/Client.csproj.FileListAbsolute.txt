@@ -1,0 +1,9 @@
+C:\Users\Damian\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Client\Client\obj\Debug\Client.pdb
